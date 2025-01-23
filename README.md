@@ -8,10 +8,6 @@
 ## Используемые технологии:
 - HTML5;
 - CSS3:
-  - Flexbox;
-  - Positioning;
-  - Adaptive UI;
-  - Media Queries;
 - Методология БЭМ;
 - Фйловая структура Nested БЭМ;
 - Работа с медиафайлами (HTML-video, iframe).
